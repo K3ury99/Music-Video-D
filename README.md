@@ -2,6 +2,8 @@
 > [!NOTE]
 > Welcome to **Music Video Downloader**! This app allows you to easily download videos and songs, serving as a personal portfolio to practice knowledge in Python and Flutter. Hope you like it!
 
+https://github.com/user-attachments/assets/3c688ae4-cb73-40ea-bef7-ef2050f02747
+
 # 📋 Table of Contents
 
 - [Features](#-features)

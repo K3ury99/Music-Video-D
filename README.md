@@ -10,7 +10,6 @@
 - [Usage](#-usage)
 - [Contributions](#-contributions)
 - [License](#-license)
-- [Contact](#-contact)
 
 # ✨ Features
 

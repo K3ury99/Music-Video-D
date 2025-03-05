@@ -50,11 +50,11 @@ Once launched, you'll be able to search and download your favorite videos and so
 # 🤝 Contributions
 Contributions are welcome! If you want to improve this project, please follow these steps:
 
-1. Fork the repository.
-2. Create a new branch with your function or fix: git checkout -b branch-name.
-3. Make your changes and commit: git commit -m 'Description of changes'.
-4. Push your changes to your fork repository: git push origin branch-name.
-5. Open a Pull Request in this repository.
+1. **Fork the repository.**
+2. **Create a new branch with your function or fix: git checkout -b branch-name.**
+3. **Make your changes and commit: git commit -m 'Description of changes'.**
+4. **Push your changes to your fork repository: git push origin branch-name.**
+5. **Open a Pull Request in this repository.**
 
 # 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.

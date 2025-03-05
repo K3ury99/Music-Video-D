@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/3c688ae4-cb73-40ea-bef7-ef2050f02747
 # 🛠️ Technologies Used
 
 - **Programming Language:** Python
-- User Interface Framework: Flutter
+- **User Interface Framework:** Flutter
 
 # 🚀 Installation
 Follow these steps to set up the project on your local machine:

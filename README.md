@@ -6,12 +6,11 @@ https://github.com/user-attachments/assets/3c688ae4-cb73-40ea-bef7-ef2050f02747
 
 # 📋 Table of Contents
 
-- [Features](#-features)
-- [Technologies Used](#-technologies-used)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Contributions](#-contributions)
-- [License](#-license)
+- Features
+- Technologies Used
+- Installation / Usage
+- Contributions
+- License
 
 # ✨ Features
 

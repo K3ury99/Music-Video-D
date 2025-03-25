@@ -34,17 +34,24 @@ Follow these steps to set up the project on your local machine:
    ```bash
    cd Music-Video-D
 3. **Install Python dependencies:**
-   ```bash
-   pip install -r requirements.txt
 4. **Install the Flutter dependencies:**
    ```bash
    flutter pub get
 
 # 🎯 Usage
-To run the app, use the following command:
+Navigate to the "LIB" directory with:
 ```bash
-flutter run
+cd lib
 ```
+and then run the python file found in the "lib" folder
+```bash
+python app.py
+```
+Then open another console and run the Main.dart file in the root of the project with:
+```bash
+flutter run -d Edge
+```
+
 Once launched, you'll be able to search and download your favorite videos and songs directly from the user interface.
 
 # 🤝 Contributions

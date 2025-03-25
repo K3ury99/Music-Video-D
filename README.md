@@ -24,34 +24,33 @@ https://github.com/user-attachments/assets/3c688ae4-cb73-40ea-bef7-ef2050f02747
 - **Programming Language:** Python
 - **User Interface Framework:** Flutter
 
-# 🚀 Installation
+# 🚀 Installation / Usage
 Follow these steps to set up the project on your local machine:
 
-1. **lone the repository:**
+**Clone the repository:**
    ```bash
    git clone https://github.com/K3ury99/Music-Video-D.git
-2. **Navigate to the project directory:**
+   ```
+**Navigate to the project directory:**
    ```bash
    cd Music-Video-D
-3. **Install Python dependencies:**
-4. **Install the Flutter dependencies:**
+   ```
+**Install the Flutter dependencies:**
    ```bash
    flutter pub get
-
-# 🎯 Usage
-Navigate to the "LIB" directory with:
-```bash
-cd lib
-```
-and then run the python file found in the "lib" folder
-```bash
-python app.py
-```
+   ```
+**Navigate to the "LIB" directory with:**
+   ```bash
+   cd lib
+   ```
+**and then run the python file found in the "lib" folder**
+   ```bash
+   python app.py
+   ```
 Then open another console and run the Main.dart file in the root of the project with:
 ```bash
 flutter run -d Edge
 ```
-
 Once launched, you'll be able to search and download your favorite videos and songs directly from the user interface.
 
 # 🤝 Contributions
